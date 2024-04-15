@@ -11,3 +11,6 @@ print('Hello')
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Testing completed tasks markdowns
+- [ ] something
+- [x] something else
